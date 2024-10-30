@@ -1,5 +1,7 @@
 # INTRODUCING : iDonate
-
+by : Code Crusader
+<br/>
+<br/>
 **USAGE :**
 
 Our app offers a seamless connection between the donors and receivers, 
